@@ -1,4 +1,4 @@
-# Apresentação
+## Apresentação
 - Mapa de competências;
 - Aulas baseadas no módulo 2;
 - [Projetos semanais](https://github.com/VaiNaWeb/treinamento-de-javascript/tree/master/projetos);
@@ -8,7 +8,7 @@
 ## Objetivos
 Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 
-- **Show me the code** - Fortalecimento técnico do time principalmente no desenvolvimento em Javascript;
+- **Show me the code** - Desenvolvimento em Javascript;
 - **Explain the solution** - Aprimorar a compreensão sobre como quebrar problemas, fazer as perguntas corretas, definição de soluções, e resolução de problemas do zero ou a partir de uma base de código existente;
 - **Teach how to code** - Fortalecimento do time enquanto multiplicadores de conteúdo.
 
