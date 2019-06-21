@@ -1,4 +1,5 @@
 ## Apresentação
+- Encontros presenciais;
 - Mapa de competências;
 - Aulas baseadas no módulo 2;
 - [Projetos semanais](https://github.com/VaiNaWeb/treinamento-de-javascript/tree/master/projetos);
