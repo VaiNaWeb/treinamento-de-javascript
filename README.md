@@ -19,3 +19,8 @@ Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 - [Eloquent Javascript](https://github.com/braziljs/eloquente-javascript)
 - [The road to learn React](https://leanpub.com/the-road-to-learn-react-portuguese)
 - [You don't know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+
+## Leituras complementares
+
+- [Estruturas de dados e algoritmos em JavaScript](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Javascript-Habilidades/dp/8575225537?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_726685122_54292137521_242594579893_pla-395601669085_c_)
+- [Freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
