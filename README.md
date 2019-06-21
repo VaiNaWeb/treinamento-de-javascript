@@ -17,8 +17,8 @@ Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 
 - [Javascript for cats](http://jsforcats.com/)
 - [Eloquent Javascript](https://github.com/braziljs/eloquente-javascript)
-- [The road to learn React](https://leanpub.com/the-road-to-learn-react-portuguese)
 - [You don't know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- [The road to learn React](https://leanpub.com/the-road-to-learn-react-portuguese)
 
 ## Leituras complementares
 
