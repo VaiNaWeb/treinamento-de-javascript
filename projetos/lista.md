@@ -20,6 +20,7 @@ Uma aplicação para sortear um meme a partir de uma lista de memes
 #### Histórias de usuário:
 - Visualizar um  meme ao abrir a página
 - Escolher um novo meme
+- Permitir compartilhar no zap
 
 ## Semana 3
 ### To do list
