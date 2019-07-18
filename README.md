@@ -9,8 +9,8 @@
 ## Objetivos
 Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 
-- **Show me the code** - Desenvolvimento de features em Javascript e ReactJS a partir de uma lista de histórias do usuário ditribuídas semanalmente;
 - **Explain the solution** - Aprimorar a compreensão sobre como quebrar problemas, fazer as perguntas corretas, definição de soluções usando representações visuais, e resolução de problemas do zero ou a partir de uma base de código existente;
+- **Show me the code** - Desenvolvimento de features em Javascript e/ou ReactJS a partir de uma lista de histórias do usuário ditribuídas semanalmente;
 - **Teach how to code** - Fortalecimento do time enquanto multiplicadores de conteúdo.
 
 ## Leituras obrigatórias
