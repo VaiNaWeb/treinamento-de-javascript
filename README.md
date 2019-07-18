@@ -11,7 +11,7 @@ Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 
 - **Explain the solution** - Aprimorar a compreensão sobre como quebrar problemas, fazer as perguntas corretas, definição de soluções usando representações visuais, e resolução de problemas do zero ou a partir de uma base de código existente;
 - **Show me the code** - Desenvolvimento de features em Javascript e/ou ReactJS a partir de uma lista de histórias do usuário ditribuídas semanalmente;
-- **Teach how to code** - Fortalecimento do time enquanto multiplicadores de conteúdo.
+- **Teach how to code** - Fortalecimento do time enquanto célula multiplicadora de conteúdo.
 
 ## Leituras obrigatórias
 
