@@ -8,9 +8,9 @@
 ## Objetivos
 Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
 
-- **Explain the solution** - Aprimorar a compreensão sobre como quebrar problemas, fazer as perguntas corretas, definição de soluções usando representações visuais, e resolução de problemas do zero ou a partir de uma base de código existente;
-- **Show me the code** - Desenvolvimento de features em Javascript e/ou ReactJS a partir de uma [lista de histórias do usuário](https://github.com/VaiNaWeb/treinamento-de-javascript/tree/master/projetos/lista.md) ditribuídas semanalmente;
-- **Teach how to code** - Fortalecimento do time enquanto unidade multiplicadora de conteúdo.
+- **Explain the solution** - Aprimorando a compreensão sobre como quebrar problemas, fazer as perguntas corretas, definição de soluções usando representações visuais, e resolução de problemas do zero ou a partir de uma base de código existente;
+- **Show me the code** - Desenvolvendo features em Javascript e/ou ReactJS a partir de uma [lista de histórias do usuário](https://github.com/VaiNaWeb/treinamento-de-javascript/tree/master/projetos/lista.md) ditribuídas semanalmente;
+- **Teach how to code** - Fortalecendo do time enquanto unidade multiplicadora de conteúdo.
 
 ## Leituras obrigatórias
 
