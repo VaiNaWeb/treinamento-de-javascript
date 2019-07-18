@@ -3,7 +3,7 @@
 - Progresso baseado no mapa de competências;
 - Projetos semanais;
 - Apresentações para o time;
-- Leituras obrigatórias.
+- Leituras obrigatórias e sessões de book review.
 
 ## Objetivos
 Precisamos fortalecer tecnicamente o nosso time. Como vamos fazer isso:
